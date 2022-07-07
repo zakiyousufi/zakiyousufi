@@ -1,4 +1,4 @@
-<p align="center"><[img  src="https://cutewallpaper.org/24/animated-computer-gif/view-page-24.htmlf](https://cutewallpaper.org/24/animated-computer-gif/desk-motiongraphic-desk-motion-graphics-tutorial-motion-design-animation-motion-design-video.gif)"/></p>
+<p align="center">![computer](https://user-images.githubusercontent.com/87229464/177745167-dd1d0bf9-9339-44ff-8036-36ae81a7b1db.gif)</p>
 
 <h1  color="pink">
         𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
