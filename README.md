@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cutewallpaper.org/download.php?file=/24/animated-computer-gif/desk-motiongraphic-desk-motion-graphics-tutorial-motion-design-animation-motion-design-video.gif"/></p>
+<img width="70%" src="https://cutewallpaper.org/download.php?file=/24/animated-computer-gif/desk-motiongraphic-desk-motion-graphics-tutorial-motion-design-animation-motion-design-video.gif"/>
 
 
 <h1  color="pink">
@@ -45,4 +45,4 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at <a hre
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-Since April 2022: [![](https://visitcount.itsvg.in/api?id=zakiyousufi&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+Since January 1, 2021: [![](https://visitcount.itsvg.in/api?id=zakiyousufi&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
