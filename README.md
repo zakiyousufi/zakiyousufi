@@ -1,5 +1,5 @@
 <p align="center">
-![8a0313eddbcf70f7bbb5f81888b5f4c1](https://user-images.githubusercontent.com/87229464/177823644-556d0395-dd6e-4e27-aa75-55e98f1bdc47.gif)
+<img sec="![8a0313eddbcf70f7bbb5f81888b5f4c1](https://user-images.githubusercontent.com/87229464/177823644-556d0395-dd6e-4e27-aa75-55e98f1bdc47.gif)">
  </p>
 <h1  color="pink">
         𝐇𝐞𝐥𝐥𝐨, &lt;Developers/&gt;!
