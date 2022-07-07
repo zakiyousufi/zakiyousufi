@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cutewallpaper.org/24/animated-computer-gif/desk-motiongraphic-desk-motion-graphics-tutorial-motion-design-animation-motion-design-video.gif"></p>
+<p align="center"><img  src="https://cutewallpaper.org/download.php?file=/24/animated-computer-gif/desk-motiongraphic-desk-motion-graphics-tutorial-motion-design-animation-motion-design-video.gif"/></p>
 
 <h1  color="pink">
         𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
@@ -6,7 +6,7 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
-a
+
 
 # 💫About Me :
 I'm a full-stack developer with a degree in medicine. I love challenges and solving them.
