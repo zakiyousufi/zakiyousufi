@@ -1,5 +1,3 @@
-<img src="https://cutewallpaper.org/download.php?file=/24/animated-computer-gif/desk-motiongraphic-desk-motion-graphics-tutorial-motion-design-animation-motion-design-video.gif"/>
-
 
 <h1  color="pink">
         𝐇𝐞𝐥𝐥𝐨, &lt;Developers/&gt;!
