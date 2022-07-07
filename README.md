@@ -1,4 +1,4 @@
-![computer](https://user-images.githubusercontent.com/87229464/177755374-45b6bcc9-ab3a-49d4-a28f-c33a4d06c5fa.gif)
+![isometric-computer](https://user-images.githubusercontent.com/87229464/177823074-19cd79c0-dc3e-4b8a-9b3a-0ff1502aacc3.gif)
 <h1  color="pink">
         𝐇𝐞𝐥𝐥𝐨, &lt;Developers/&gt;!
   <a target="_blank">
