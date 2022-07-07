@@ -1,4 +1,4 @@
-<img width="70%" src="https://cutewallpaper.org/download.php?file=/24/animated-computer-gif/desk-motiongraphic-desk-motion-graphics-tutorial-motion-design-animation-motion-design-video.gif"/>
+<img src="https://cutewallpaper.org/download.php?file=/24/animated-computer-gif/desk-motiongraphic-desk-motion-graphics-tutorial-motion-design-animation-motion-design-video.gif"/>
 
 
 <h1  color="pink">
