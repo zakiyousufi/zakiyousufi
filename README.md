@@ -5,7 +5,9 @@
   <a href="https://www.linkedin.com/in/ahmadzaki-yousufi-055214217/L">
     <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/fadahunsiseyi/"/>
   </a>
+  
 ![8a0313eddbcf70f7bbb5f81888b5f4c1](https://user-images.githubusercontent.com/87229464/177823644-556d0395-dd6e-4e27-aa75-55e98f1bdc47.gif)
+  
 </div>
 <h1  color="pink">
  Front-end Developer
