@@ -9,7 +9,7 @@
 </div>
 
 <h1  color="pink">
- Front-end Developer
+  Full Stack Developer
   # 𝐇𝐞𝐥𝐥𝐨, &lt;Developers/&gt;!
  
   <a target="_blank">
