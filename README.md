@@ -8,17 +8,17 @@
   Full Stack Developer
   
   # 𝐇𝐞𝐥𝐥𝐨, &lt;Developers/&gt;!
+  
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+  </a>
+</h1>
  
  
  <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
- 
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a>
-</h1>
 
 # 💫About Me :
 I'm a full-stack developer, a graphic designer and a multi media journalist. I love challenges and solving them.
