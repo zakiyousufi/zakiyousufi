@@ -46,14 +46,13 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at <a hre
 
 
 # 📊GitHub Stats :
-![Yousufi's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ahzamir&theme=redical&hide_border=true&area=true)
-![](https://github-readme-stats.vercel.app/api?
+![Yousufi's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=zakiyousufi&theme=redical&hide_border=true&area=true)
 ![](https://github-readme-stats.vercel.app/api?username=zakiyousufi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zakiyousufi&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakiyousufi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zakiyousufi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=zakiyousufi&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
