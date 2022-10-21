@@ -4,13 +4,16 @@
   
 </div>
 
-<div id="header" align="center">
+<h1  color="pink">
+  Full Stack Developer
+  
+  # 𝐇𝐞𝐥𝐥𝐨, &lt;Developers/&gt;!
+ 
+ 
+ <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1  color="pink">
-  Full Stack Developer
-  # 𝐇𝐞𝐥𝐥𝐨, &lt;Developers/&gt;!
  
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
