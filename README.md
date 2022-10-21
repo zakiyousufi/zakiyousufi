@@ -46,6 +46,8 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at <a hre
 
 
 # 📊GitHub Stats :
+![Yousufi's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ahzamir&theme=redical&hide_border=true&area=true)
+![](https://github-readme-stats.vercel.app/api?
 ![](https://github-readme-stats.vercel.app/api?username=zakiyousufi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zakiyousufi&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakiyousufi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
