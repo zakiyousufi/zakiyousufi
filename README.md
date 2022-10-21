@@ -57,4 +57,4 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at <a hre
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-Since January 1, 2021: [![](https://visitcount.itsvg.in/api?id=zakiyousufi&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+Since January 1, 2021: [![](https://visitcount.itsvg.in/api?id=zakiyousufi&label=Profile%20Views&color=12&icon=7&pretty=true)](https://visitcount.itsvg.in)
