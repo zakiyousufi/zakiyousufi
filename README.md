@@ -36,14 +36,41 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at <a hre
 
 
 # 💻Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+<div>
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="github"  width="20px" height="20px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma"  width="20px" /> 
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=ps" alt="photoshop"  width="20px" /> 
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=ai"  alt="Illustrator"  width="20px" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD"  width="20px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript"  width="20px" /> 
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5"  width="20px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3"  width="20px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=sass" alt="sass"  width="20px" height="20px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=wordpress" alt="wordpress"  width="20px" /> 
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git"  width="20px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"  width="20px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="postgres"  width="20px" />         
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap"  width="20px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=jest" alt="Jest"  width="20px" height="20px" />  
+<img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/master/logos/postman-icon.svg" alt="postman"  width="20px" height="20px" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="react"  width="20px" height="20px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="vscode"  width="20px" height="20px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=webpack" alt="webpack"  width="20px" height="20px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=heroku" alt="heroku"  width="20px" height="20px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=netlify" alt="netlify"  width="20px" height="20px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=redux" alt="redux"  width="20px" height="20px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=ruby" alt="ruby"  width="20px" height="20px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=rails" alt="rails"  width="20px" height="20px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="linux"  width="20px" height="20px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu"  width="20px" height="20px" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=terminal" alt="terminal"  width="20px" height="20px" />
+</div>
 
+# 📜Certificates and Licenses
+
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/ad7d12a5-5f61-45b7-ac59-4c978a0784a1#gs.fqjwn9" target="_blank"><img src="./images/html-css.png" alt="html-css"  width="80"></a><a href="https://www.credential.net/c48dc01c-a16d-40f4-9673-224f819ed3fa#gs.fqkctk" target="_blamk"><img src="./images/javascript.png" alt="javascript"  width="80"></a><a href="https://www.credential.net/0fd5251e-4562-444b-9985-41475dc5fbc0#gs.fqkvx2" target="_blank"><img src="./images/react-redux.png" alt="react-redux"  width="80"></a>
+</p>
 
 # 📊GitHub Stats :
 ![Yousufi's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=zakiyousufi&theme=redical&hide_border=true&area=true)
