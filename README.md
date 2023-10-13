@@ -31,7 +31,7 @@ I'm deeply passionate about ideation, conceptualization, and creating high-quali
 In addition to my technical skills, I'm an excellent problem solver with strong communication and collaboration skills. I'm always looking for ways to improve processes and workflows to make sure projects are completed on time and within budget.
 
 If you're interested in connecting with me, please feel free to email me at: ahmadzakiyousufi3@gmail.com.
-Also, feel free to visit my [portfolio](https://zakiyousufi.github.io/my-Portfolio/) and check some of my projects there.
+Also, feel free to visit my [portfolio](https://zakiyousufi-portfolio.vercel.app/) and check some of my projects there.
   </p>
 
   <h2 style="color:#fff">🌐Socials</h2>
