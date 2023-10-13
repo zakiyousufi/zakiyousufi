@@ -16,11 +16,22 @@
 
   <h1 style="color:#fff;">💫About Me :</h1>
 
-  <p style="color:#fff; font-size:15px;">I'm a full-stack developer, a graphic designer and a multi media journalist. I love challenges and solving them.
-  Idea, teamwork, and quality of the project are very important for me special.
-  I've spent the last several months enrolled in a remote software development school, practicing pair programming, with people across different time zones.
-  Frontend: Javascript, Html, Css
-  Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at <a href="gmail.com">ahmadzakiyousufi3@gmail.com</a> .
+  <p style="color:#fff; font-size:15px;">Hello, I'm Ahmad Zaki Yousufi, a multi-skilled full-stack software developer with hands-on experience in developing and executing in a totally unstructured and resource-constrained environment. I specialize in building scalable web applications and have extensive knowledge in the following areas:
+
+Front-end development: ReactJS | Javascript | Redux | Next.JS
+Back-end development: NodeJS | ExpressJS | Python | Ruby on Rails
+Databases: PostgreSQL | MongoDB | SQLite | PostgreSQL
+Styling: CSS3 | Bootstrap | TailwindCSS | SCSS | MaterialUI | Styled Component
+Tools and Methods: Git, GitFlow, GitHub, Responsive Design, Postman, RapidAPI.
+QA: Unit Testing | RSpec | TDD | Chrome Dev Tool.
+Infra: Vercel | CI/CD | Netlify
+Professional: Remote pair programming, Teamwork, Mentoring, Communication, and Collaboration.
+I'm deeply passionate about ideation, conceptualization, and creating high-quality codes from start to finish. I have a proven track record of delivering successful projects. I'm always looking for new challenges and opportunities to use my skills and knowledge to help businesses of all sizes achieve their goals.
+
+In addition to my technical skills, I'm an excellent problem solver with strong communication and collaboration skills. I'm always looking for ways to improve processes and workflows to make sure projects are completed on time and within budget.
+
+If you're interested in connecting with me, please feel free to email me at: ahmadzakiyousufi3@gmail.com.
+Also, feel free to visit my [portfolio](https://zakiyousufi.github.io/my-Portfolio/) and check some of my projects there.
   </p>
 
   <h2 style="color:#fff">🌐Socials</h2>
